@@ -6,3 +6,29 @@
 section {
   padding-top: 5rem;
 }
+
+.card {
+  border-radius: 3%;
+}
+.card-img-top {
+  border-top-left-radius: 3%;
+  border-top-right-radius: 3%;
+}
+
+p {
+  font-family: "Poppins", sans-serif;
+}
+
+h2 {
+  font-family: "Poppins", sans-serif;
+}
+
+.display-4 {
+  font-family: "Poppins", sans-serif;
+
+}
+
+.container {
+  font-family: "Poppins", sans-serif;
+
+}
